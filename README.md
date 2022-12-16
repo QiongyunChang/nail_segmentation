@@ -1,2 +1,2 @@
-# nail_segmentayion
+# nail_segmentation
 Implement nail segmentation with unet 
